@@ -1,6 +1,6 @@
-# © 2026 Strategos. All rights reserved.
-# vistina — stub package. Redirects to vistina-victor.
-# See: https://github.com/ShadowStrike-CTF/shadowstrike-suite
+# Vistina — Forensic legal review platform.
+# © 2026 Strategos Pty Ltd. All rights reserved.
+# Aut Viam Inveniam Aut Faciam
 
 try:
     from vistina_victor import *  # noqa: F401, F403
