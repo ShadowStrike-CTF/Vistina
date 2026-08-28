@@ -23,9 +23,6 @@ classifiers = [
     "License :: Other/Proprietary License",
     "Operating System :: OS Independent",
 ]
-dependencies = [
-    "vistina-victor",
-]
 
 [project.urls]
 "Source" = "https://github.com/ShadowStrike-CTF/vistina"
